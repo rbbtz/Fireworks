@@ -1,5 +1,7 @@
 # Fireworks
 
+Copy the sketch.js file and paste into the editor playground at https://editor.p5js.org or open the index.html file for the experience in a web browser.
+
 This is a P5.js sketch that simulates a dynamic particle system with a trail effect. The particles and the trail are both affected by the user's mouse movement and button input, and are displayed using a shader effect.
 
 Let's break down the code:
